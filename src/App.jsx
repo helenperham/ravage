@@ -1,8 +1,10 @@
 import react from 'react'
 import './global.css'
 // import {layout} from './layout.jsx'
+// import {footer} from './footer.jsx' - haven't added this file yet, but will add in 
+// purpose of footer is to hold the subscription to mailchimp link
 
-function App({data, layout}) {
+function App({data, layout, footer}) {
   console.log(data)
   return (
       <div>

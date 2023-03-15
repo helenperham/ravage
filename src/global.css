@@ -5,6 +5,12 @@ html {
 
 }
 
+p {
+ color: #fefefe;
+ font: "Atkinson Hyperlegible";
+ font-family: "Atkinson Hyperlegible";
+}
+
 .videoWrapper {
   position: relative;
   padding-bottom: 56.25%;
