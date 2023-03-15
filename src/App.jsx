@@ -18,7 +18,7 @@ function App({data, layout}) {
         <p>
         </p>
         <h2>On What</h2>
-        {data.allMarkdownRemark.edges.map(({ node }) => (
+        {/* {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>
             <Link 
               to={node.fields.slug}
@@ -44,7 +44,7 @@ function App({data, layout}) {
             <p>{node.excerpt}</p>
             </Link>
           </div>
-        ))}
+        ))} */}
       </div>
   )
 }
