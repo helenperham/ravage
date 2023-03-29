@@ -1,5 +1,6 @@
 import react from 'react'
 import './global.css'
+import NavBar from './navbar'
 // import {layout} from './layout.jsx'
 // import {footer} from './footer.jsx' - haven't added this file yet, but will add in 
 // purpose of footer is to hold the subscription to mailchimp link
@@ -7,7 +8,8 @@ import './global.css'
 function App({data, layout, footer}) {
   console.log(data)
   return (
-      <div>
+    <div>
+        <NavBar />
         <h1>
           <p>RAVAGE. It's a farce. An inside-the-head assessment of reality goes up against call scripts. </p>
         </h1>
