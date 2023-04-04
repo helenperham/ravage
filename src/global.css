@@ -19,6 +19,13 @@ h2 {
     font-family: "Atkinson Hyperlegible";
 }
 
+h4 {
+  color: #fefefe;
+  font-size: 24px ;
+  font: "Atkinson Hyperlegible";
+  font-family: "Atkinson Hyperlegible";
+}
+
 .videoWrapper {
   position: relative;
   padding-bottom: 56.25%;
@@ -42,6 +49,13 @@ h2 {
 .link {
   font-size: 24px;
   margin-bottom: 38px;
+}
+
+.navbar {
+  color: #fefefe;
+  font-size: 34px;
+  font: "Atkinson Hyperlegible";
+  font-family: "Atkinson Hyperlegible";
 }
 
 body {}
