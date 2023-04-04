@@ -22,7 +22,7 @@ function NavBar() {
                     Ravage
                 </NavLink>
                 <NavLink
-                    classname= "aboutHyperlink"
+                    className= "aboutHyperlink"
                     to="/about"
                     exact
                 >
