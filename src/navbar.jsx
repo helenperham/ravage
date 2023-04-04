@@ -16,6 +16,7 @@ function NavBar() {
         <div className='navbar'>
             <div className='navButtons'>
                 <NavLink
+                    className="ravageHyperLink"
                     to="/"
                     exact
                 >

@@ -50,8 +50,18 @@ h4 {
   font-size: 24px;
   margin-bottom: 38px;
 }
-
+.navButtons {
+  display: flex;
+  justify-content: space-between;
+}
 .aboutHyperlink {
+  color: #fefefe;
+  font-size: 34px;
+  font: "Atkinson Hyperlegible";
+  font-family: "Atkinson Hyperlegible";
+}
+
+.ravageHyperLink {
   color: #fefefe;
   font-size: 34px;
   font: "Atkinson Hyperlegible";
