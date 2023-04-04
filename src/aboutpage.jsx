@@ -10,12 +10,11 @@ function Homepage({data, layout, footer}) {
   return (
     <div>
         <h1>
-          <p>About page </p>
+          <p>About Ravage</p>
         </h1>
         <>
-          <p>Ravage is a 5 year project orchestrated by Tiff Gum Ying Cheng. Many of the scenes in it depended on a mood of nervous triumph, especially since the script was handwritten and put into some order using tape and was therefore almost of no help.
-
-Email us: porkornopork at g-popular email service dot com.</p>
+          <p>Ravage is a 5 year project orchestrated by Tiff Gum Ying Cheng. Many of the scenes in it depended on a mood of nervous triumph, especially since the script was handwritten and put into some order using tape and was therefore almost of no help.</p>
+          <p>Email us: porkornopork at g-popular email service dot com.</p>
         </>
 
       </div>

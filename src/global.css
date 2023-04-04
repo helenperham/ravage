@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap');
 
 html {
   background-color: rgb(0, 0, 37);
@@ -65,6 +66,7 @@ h4 {
   color: #fefefe;
   font-size: 34px;
   font: "Atkinson Hyperlegible";
+  font-weight: 900;
   font-family: "Atkinson Hyperlegible";
 }
 
