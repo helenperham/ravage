@@ -20,7 +20,6 @@ function Homepage({data, layout, footer}) {
         {/* <p> <Footer /> </p> */}
         <p>
         </p>
-        <h2>On What</h2>
         {/* {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>
             <Link 
