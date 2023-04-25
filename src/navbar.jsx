@@ -16,12 +16,12 @@ function NavBar() {
         <div className='navbar'>
             <div className='navButtons'>
                 <NavLink
-                    className="ravageHyperLink"
+                className="ravageHyperLink"
                     to="/"
                     exact
                 >
                     Ravage
-                </NavLink>
+                </NavLink> 
                 <NavLink
                     className= "aboutHyperlink"
                     to="/about"
